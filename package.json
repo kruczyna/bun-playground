@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "bun-types": "^0.1.5"
+  },
+  "name": "bun-playground",
+  "description": "A place to try out bun.sh",
+  "version": "0.0.1",
+  "main": "http.js",
+  "devDependencies": {},
+  "scripts": {
+    "run:db": "bun run db.js",
+    "run:http": "bun run http.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kruczyna/bun-playground.git"
+  },
+  "keywords": [
+    "bun",
+    "playground",
+    "bun.sh"
+  ],
+  "author": "Victoria Kruczek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kruczyna/bun-playground/issues"
+  },
+  "homepage": "https://github.com/kruczyna/bun-playground#readme"
+}
